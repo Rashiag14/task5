@@ -1,0 +1,7 @@
+| Date       | Customer | Category    | Quantity | Price |
+| ---------- | -------- | ----------- | -------- | ----- |
+| 2025-01-05 | Alice    | Electronics | 2        | 500   |
+| 2025-01-10 | Bob      | Furniture   | 1        | 1500  |
+| 2025-02-02 | Alice    | Clothing    | 3        | 200   |
+| 2025-02-15 | David    | Electronics | 1        | 1000  |
+| 2025-03-01 | Charlie  | Furniture   | 2        | 1200  |
